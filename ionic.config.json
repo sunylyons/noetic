@@ -1,7 +1,0 @@
-{
-  "name": "Noetic",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
